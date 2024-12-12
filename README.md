@@ -1,0 +1,2 @@
+# storemanagment
+Eğitim içeriği
